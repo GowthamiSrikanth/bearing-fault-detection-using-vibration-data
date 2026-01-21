@@ -30,5 +30,13 @@ dimensionality reduction, and machine learning-based fault classification with c
 - Scikit-learn
 - Matplotlib, Seaborn
 
+## Data Source
+The raw vibration data used in this project is large and therefore not included in this repository.
+The dataset consists of high-frequency vibration signals collected from rotating machinery under
+normal, ball fault, inner race fault, and outer race fault conditions.
+
+Feature-engineered datasets were generated from the raw signals and used for analysis and modeling.
+
+
 ## Author
 Gowthami Srikanth
