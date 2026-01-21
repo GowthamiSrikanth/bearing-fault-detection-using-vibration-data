@@ -31,4 +31,4 @@ dimensionality reduction, and machine learning-based fault classification with c
 - Matplotlib, Seaborn
 
 ## Author
-Gowthami
+Gowthami Srikanth
